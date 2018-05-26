@@ -4,3 +4,7 @@ def plus_two(num)
 	
 	binding.pry
 end
+
+def another_one
+  variable = 5
+end
