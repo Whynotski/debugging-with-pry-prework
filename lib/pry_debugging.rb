@@ -3,6 +3,8 @@ def plus_two(num)
 	num
 	
 	binding.pry
+	
+	x = 10
 end
 
 def another_one
