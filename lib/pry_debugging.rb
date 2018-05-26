@@ -6,7 +6,7 @@ def plus_two(num)
 	
 	# questionable code
   if x = 11
-    true 
+    puts true 
   end
   false
 end
